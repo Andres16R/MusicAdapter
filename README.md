@@ -51,3 +51,7 @@ Para ejecutar la aplicación:
 ```bash
 mvn exec:java -Dexec.mainClass=main.java.edu.unisabana.dyas.patterns.Client
 ```
+
+MODELO PROPUESTO:
+
+![alt text](img/diagrama.png "Logo Title Text 1")
